@@ -1,0 +1,43 @@
+categoria 	e-heal
+nombre 		lorodoc
+url		http://www.taguatotech.com/lorodoc/
+idioma		espanol
+sistema operativo	Aplicacion web, cualquier sistema operativo
+
+descripcion	
+En ocasiones puede haber dificultades para entender qué le pasa al paciente, porque tiene problemas para expresarse hablando
+o por escrito.
+Estan dificultades pueden ser:
+-Debido a la situación de salud que en ese momento tiene el paciente
+-Debido a las caracteristicas del paciente
+-Debido al desconocimiento del idioma	
+
+También puede ocurrir que el paciente no sepa escribir, o prefiera usar pictogramas para agilizar su comunicación.
+
+
+Datos adicionales
+Contar con un sistema alternativo de comunicacion facilitará conocer qué le ocurre al paciente y así atenderle mejor.
+Aplicacion web, desarrollado con el kit de interfaz de usuario (Flat UI Free) y JavaScript.
+requisitos adicionales
+www.taguatotech.com/lorodoc/ puede ser accedido desde cualquier dispositivo que posea un navegador web y conexión a internet.
+
+instructivo
+Acceder mediante un navegador a la siguiente direccion:
+www.taguatotech.com/lorodoc/
+
+Click en el boton Comenzar.
+Click en el boton deseado para iniciar la comunicacion.
+
+-Establezca un código de respuesta SÍ/NO con el paciente.
+
+-Coloque la pantalla adecuadamente, de forma que el paciente pueda ver y señalar los pictogramas con facilidad.
+
+-Cuando el paciente quiera decirle algo, espere a que busque o ayúdele en esta tarea, si es necesario.
+
+-Al principio, para facilitar que el paciente comprenda el significado de los pictogramas, usted puede señalarlos al tiempo que habla con el paciente.
+
+-Un simple click o toque sobre el pictograma buscado, usted escuchará una voz que dira el significado para verificar que eso es lo que el paciente quiere decirle.
+
+-Si era el mensaje adecuado, la comunicación ha sido un éxito. Si no es así, intente realizar preguntas al paciente, relacionadas con los pictogramas que ha señalado y espere nuevamente sus respuestas.
+
+
